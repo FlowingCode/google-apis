@@ -3,6 +3,10 @@
   "flat": true,
   "version": "3.0.1",
   "description": "Web components to load Google API libraries",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlowingCode/google-apis.git"
+  },
   "contributors": [
     "Scott Miles <sjmiles@google.com>",
     "Eric Bidelman <ebidel@gmail.com>",
