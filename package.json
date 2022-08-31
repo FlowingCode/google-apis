@@ -1,5 +1,5 @@
 {
-  "name": "@johnriv/google-apis",
+  "name": "@flowingcode/google-apis",
   "flat": true,
   "version": "3.0.0",
   "description": "Web components to load Google API libraries",
