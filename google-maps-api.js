@@ -1,5 +1,5 @@
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
-import { IronJsonpLibraryBehavior } from '../../@polymer/iron-jsonp-library/iron-jsonp-library.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
+import { IronJsonpLibraryBehavior } from '@polymer/iron-jsonp-library/iron-jsonp-library.js';
 
 /*
 Copyright (c) 2014 The Polymer Project Authors. All rights reserved.

@@ -1,4 +1,4 @@
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
 import './google-js-api.js';
 
 // Stores whether the API client is done loading.
