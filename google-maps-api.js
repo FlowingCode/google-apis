@@ -110,7 +110,7 @@ Polymer({
     let url = `${mapsUrl}&v=${version}`;
 
     // Always load all Maps API libraries.
-    url += '&libraries=geometry,places';
+    url += '&libraries=geometry,places,marker';
 
     if (apiKey && !clientId) {
       url += `&key=${apiKey}`;
